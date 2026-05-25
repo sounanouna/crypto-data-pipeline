@@ -57,3 +57,9 @@ install the required packages:
 pip3 install -r requirements.txt
 
 ```
+
+Run the pipeline:
+
+```bash
+python3 src/crypto_pipeline.py
+```
