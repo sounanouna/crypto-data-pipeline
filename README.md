@@ -48,3 +48,12 @@ crypto-data-pipeline/
 |-- requirements.txt
 |-- .gitignore
 ```
+
+## How to Run
+
+install the required packages:
+
+```bash
+pip3 install -r requirements.txt
+
+```
